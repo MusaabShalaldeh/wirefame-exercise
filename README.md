@@ -1,2 +1,2 @@
-# wirefame-exercise
+# wireframe-exercise
 Practicing Wireframe Usage
